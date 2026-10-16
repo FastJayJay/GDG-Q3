@@ -9,7 +9,7 @@ Built at [Build for Good: AI Lab for Housing](https://gdgpvd.dev/housing-jam), D
 **App:** [link to app](https://claude.ai/artifact/U4zPaHn2nXMbESPVs2q49v)
 **Team:** Jacob Burdick, Sebastian Coso (Code). Ronaldo Gonzalez (Housing expert)
 
-![Screenshot](<img width="1712" height="811" alt="image" src="https://github.com/user-attachments/assets/d83de49f-4749-40ed-bef7-da97a0ae965f" />)
+![Screenshot](https://github.com/user-attachments/assets/d83de49f-4749-40ed-bef7-da97a0ae965f)
 
 ## The problem
 
