@@ -7,7 +7,7 @@ Built at [Build for Good: AI Lab for Housing](https://gdgpvd.dev/housing-jam), D
 **Challenge:** 3. How does this project get funded?
 
 **App:** [link to app](https://claude.ai/artifact/U4zPaHn2nXMbESPVs2q49v)
-**Team:** Jacob Burdick, Sebastian Coso (Code). Ronaldo Gonzalez (Housing expert)
+**Team:** Jacob Burdick, Sebastian Coso (Coders). Reinaldo Gonzalez, Bancroft Soto (Housing experts)
 
 ![Screenshot](https://github.com/user-attachments/assets/d83de49f-4749-40ed-bef7-da97a0ae965f)
 
